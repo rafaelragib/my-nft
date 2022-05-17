@@ -1,6 +1,6 @@
 # Smart Contract Deploy, NFT creation and Minting   
 
-## Third Party vendor Used
+## Third Party Vendor Used
 * [Alchemy](https://www.alchemy.com/)
 * [Pinata](https://www.pinata.cloud/)
 ## Deploy Smart Contract
