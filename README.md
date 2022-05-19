@@ -3,6 +3,7 @@
 ## Third Party Vendor Used
 * [Alchemy](https://www.alchemy.com/)
 * [Pinata](https://www.pinata.cloud/)
+* [MetaMask](https://metamask.io/)
 ## Deploy Smart Contract
 To initially run the project some dependency needs to be added. It can be added using
     
